@@ -9,7 +9,7 @@
 - email：zhangtao4027050@gmail.com  zhangtao4027050@126.com
 - 专业学历：北京邮电大学  应用物理 本科
 - 毕业时间： 2012年
-
+- resume url: https://github.com/KevinZoro/resume
 
 
 # 求职目标
