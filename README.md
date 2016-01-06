@@ -1,5 +1,3 @@
-# Resume Kevin Node.js
-
 # 张涛
 
 
@@ -16,6 +14,9 @@
 
 - node.js后端工程师
 
+# 技术栈
+- Node.js，C++，Python，经常使用的语言是Node.js,常用的Module:Express,async等，C++以前用过一年左右，Python也涉及，用的较少，目前想学Go
+- Cassandra/Mongodb/Redis/MySQL,对这几种数据库均有使用，最熟悉的是Cassandra，Mongodb和MySQL也有项目用过，不过使用的次数不多，Redis正在学习中，了解基本的语法
 
 # 工作经历、项目经历
 
@@ -64,3 +65,11 @@
 
 吉艾科技是创业板上市公司，一年C++开发主要是工业软件开发，用于绘制测井曲线，使用wxWidgets框架在Linux上开发。
 毕业后在这家公司呆了两年，也是在这里转向了软件开发行业，后来还是觉得公司相对太保守，遂辞职来上海寻找互联网公司发展
+
+# 个人描述
+
+- 宅男
+- 冷幽默
+- 爱逛技术论坛(v2ex,cnode,byr...)
+- 喜爱篮球，NBA最喜欢两个伟大的21号
+- dota爱好者，不过很水
